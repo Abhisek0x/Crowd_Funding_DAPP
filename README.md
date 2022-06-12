@@ -1,10 +1,6 @@
 # Hardhat Fund Me
-
-
-
-This project is apart of the Hardhat FreeCodeCamp video.
-
-Video coming soon...
+@title Crowdfunding
+@creator Abhisek0x
 
 # Getting Started
 
