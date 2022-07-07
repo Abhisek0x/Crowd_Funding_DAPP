@@ -19,17 +19,9 @@
 ## Quickstart
 
 ```
-git clone https://github.com/PatrickAlphaC/hardhat-fund-me-fcc
-cd hardhat-fund-me-fcc
+git clone https://github.com/Abhisek0x/Crowd_Funding_DAPP.git
+cd Crowd_Funding_DAPP
 yarn
-```
-
-## Typescript
-
-For the typescript edition, run:
-
-```
-git checkout typescript
 ```
 
 # Usage
